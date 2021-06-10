@@ -7,8 +7,7 @@
 <script>
 export default {
     layout:"default",
+
 }
-$.fancybox.defaults.arrows = false;
-$.fancybox.defaults.clickContent = false;
-$.fancybox.defaults.toolbar = false;
+
 </script>

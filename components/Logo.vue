@@ -1,10 +1,12 @@
 <template>
-  <a href="tel:+79787770718" class="contacts"><i class="bi bi-telephone"></i>+7 978 777 07 18</a>
+    <NuxtLink to="/">
+        <img  src="/images/logo.svg" class="img-fluid" style="width: 10em">
+    </NuxtLink>
 </template>
 
 <script>
 export default {
-  name: "Tel"
+  name: "Logo"
 }
 </script>
 

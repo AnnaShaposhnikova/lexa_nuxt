@@ -1,0 +1,252 @@
+header .logo_background{
+    height: 150px;
+}
+
+@media (min-width: 576px) {
+    main {
+        margin-left: 3em;
+        margin-right: 3em;
+    }
+
+    header .logo_background{
+        height: 150px;
+    }
+}
+
+@media (min-width: 768px) {
+    main {
+        margin-left: 3em;
+        margin-right: 3em;
+    }
+
+    header .logo_background{
+        height: 150px;
+    }
+}
+
+@media (min-width: 992px) {
+    main {
+        margin-left: 6em;
+        margin-right: 6em;
+    }
+
+    header .logo_background{
+        height: 300px;
+    }
+}
+
+@media (min-width: 1200px) {
+    main {
+        margin-left: 12em;
+        margin-right: 12em;
+    }
+}
+
+article,
+figure,
+footer,
+header,
+main,
+nav,
+section {
+display: block;
+position: relative;
+}
+
+legend {
+font-size: calc(1.275rem + 0.3vw);
+}
+
+h1,
+.h1 {
+font-size: calc(1.375rem + 1.5vw);
+}
+
+h2,
+.h2 {
+font-size: calc(1.325rem + 0.9vw);
+}
+
+h3,
+.h3 {
+font-size: calc(1.3rem + 0.6vw);
+}
+
+h4,
+.h4 {
+font-size: calc(1.275rem + 0.3vw);
+}
+h5,
+.h5 {
+font-size: calc(1.25rem + 0.2vw);
+}
+
+.display-1 {
+font-size: calc(1.725rem + 5.7vw);
+}
+
+.display-2 {
+font-size: calc(1.675rem + 5.1vw);
+}
+
+.display-3 {
+font-size: calc(1.575rem + 3.9vw);
+}
+
+.display-4 {
+font-size: calc(1.475rem + 2.7vw);
+}
+
+.close {
+font-size: calc(1.275rem + 0.3vw);
+}
+
+body {
+background-image: url(./../images/wall123.jpg);
+font-family: 'Philosopher', sans-serif;
+/*font-family: 'Poppins', sans-serif;*/
+}
+
+main{
+    background-color:#FFFAFA;
+    box-shadow: 3px 3px 8px hsl(0, 0%, 70%);
+    -webkit-box-shadow: 3px 3px 8px hsl(0, 0%, 70%);
+}
+.contacts {
+    background-color: #FF8300;
+    color: white;
+    letter-spacing: 5px;
+}
+
+.contacts a {
+    color: black;
+    font-size: 1.2em;
+}
+.contacts-footer {
+    color: white;
+    letter-spacing: 3px;
+}
+
+.contacts-footer a {
+    color: white;
+}
+
+.nadpys {
+    background-position: 50% 50%;
+    background-position-x: 50%;
+    background-position-y: 50%;
+}
+
+.mainNav {
+
+    background-color: #FF8300;
+    font-family: 'Philosopher', sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+#map {
+    height: 500px;
+  }
+
+.size-icon {
+    font-size: 3em
+}
+
+.media-icon {
+    vertical-align: middle;
+    display: inline;
+}
+
+.media-icon span {
+    margin-left: 1em;
+}
+
+.restzoneimg {
+    height: 480px;
+    width: 740px;
+}
+
+.logo_background {
+    background-color: #dfe5eb;
+    background-image: url(./../images/morda/main_img.jpg);
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    background-position-x: 50%;
+    background-position-y: 50%;
+    overflow: hidden;
+    background-size: cover;
+
+}
+
+.logo_background .nadpys {
+    display: table;
+    height: 100%
+}
+
+.logo_background .nadpys .navbar-brand {
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.logo_background .nadpys .navbar-brand a {
+    display: inline-block;
+    color: black;
+    font-size: 30px
+}
+
+p, ul li, ul {
+    font-size: 1.3rem;
+}
+p {
+    text-indent: 20px;
+}
+.card p{
+    font-size: 1.3rem;
+}
+nav button .navbar-toggler {
+    text-align: left;
+}
+footer {
+    background-color: black;
+    color: white;
+}
+footer .brand-social {
+    vertical-align: middle;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+footer .brand a {
+    display: block;
+    vertical-align: middle;
+}
+
+footer .brand a img {
+    margin: 1em;
+}
+
+.span {
+    display: inline-block;
+}
+
+.btn-color {
+    background-color: #FF8300;
+    color: black;
+}
+
+.card {
+    box-shadow: 3px 3px 8px hsl(0, 0%, 70%);
+    -webkit-box-shadow: 3px 3px 8px hsl(0, 0%, 70%);
+}
+
+
+
+
+
+
+
+
+

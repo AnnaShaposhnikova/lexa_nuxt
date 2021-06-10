@@ -1,0 +1,31 @@
+
+.serv {
+
+    overflow: hidden;
+    border: 1px white solid; /* стили рамки */
+    -moz-border-radius: 30px; /* закругление для старых Mozilla Firefox */
+    -webkit-border-radius: 30px; /* закругление для старых Chrome и Safari */
+    -khtml-border-radius: 30px; /* закругл. для браузера Konquerer системы Linux */
+    border-radius: 30px; /* закругление углов для всех, кто понимает */
+}
+
+.serv img {
+    height: 150px;
+    width: 220px;
+    transition: all 1s ease-out;
+    border: 1px white solid; /* стили рамки */
+    -moz-border-radius: 30px; /* закругление для старых Mozilla Firefox */
+    -webkit-border-radius: 30px; /* закругление для старых Chrome и Safari */
+    -khtml-border-radius: 30px; /* закругл. для браузера Konquerer системы Linux */
+    border-radius: 30px; /* закругление углов для всех, кто понимает */
+}
+
+.serv img:hover {
+    transform: scale(1.2);
+}
+
+
+
+
+
+
