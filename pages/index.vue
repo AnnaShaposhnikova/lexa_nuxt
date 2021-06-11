@@ -119,7 +119,7 @@
                       <div class="span wow bounceInRight">
                           <div class="card">
                               <CardImg srs="/images/rooms/5.jpg"/>
-                              <CardBody>Четырехместный номер <br>на 2 этаже</CardBody>
+                              <CardBody>Четырехместный <br>номер на 2 этаже</CardBody>
                           </div>
                       </div>
                   </div>
