@@ -9,7 +9,7 @@
                 <b-nav-item to="/price">Цены</b-nav-item>
                 <b-nav-item to="/restzone">Контакты</b-nav-item>
                 <b-nav-item to="/restzone">Территория гостевого дома</b-nav-item>
-                <b-nav-item to="/fotogellary">Фотогаллерея</b-nav-item>
+                <b-nav-item to="/fotogallery">Фотогаллерея</b-nav-item>
                 <b-nav-item to="/services">Услуги</b-nav-item>
                 <b-nav-item to="/beach">Пляжи</b-nav-item>
                 <b-nav-item to="/settlement">О посёлке</b-nav-item>

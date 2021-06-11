@@ -4,7 +4,7 @@
 </template>
 <script>
 export default {
-    props: ["src"],
+    props: {src:String},
     name: "CardImg"
 }
 </script>
