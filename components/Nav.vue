@@ -7,7 +7,6 @@
                 <b-nav-item to="/">Главная</b-nav-item>
                 <b-nav-item to="/rooms">Номера</b-nav-item>
                 <b-nav-item to="/price">Цены</b-nav-item>
-                <b-nav-item to="/restzone">Контакты</b-nav-item>
                 <b-nav-item to="/restzone">Территория гостевого дома</b-nav-item>
                 <b-nav-item to="/fotogallery">Фотогаллерея</b-nav-item>
                 <b-nav-item to="/services">Услуги</b-nav-item>
