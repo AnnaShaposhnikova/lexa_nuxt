@@ -12,9 +12,15 @@
           </div>
       </div>
       <div class="row justify-content-center px-2">
-          <div class="col-sm-3 pt-2 text-center">
+          <div class="col-sm-3 pt-2 text-center" >
               <a data-fancybox="gallery" href="/images/rooms/1_etag_11.jpg"><img src="/images/rooms/1_etag_1.jpg"
-                                                                                class="my_img img-fluid"></a>
+                                                                                 class="my_img img-fluid"></a>
+<!--              <Fancybox-->
+<!--                  data-caption="video"-->
+<!--                  data-fancybox="gallery"-->
+<!--              >-->
+<!--                  <img  class="fancy" src="/images/rooms/1_etag_11.jpg" alt="">-->
+<!--              </Fancybox>-->
           </div>
           <div class="col-sm-3 pt-2 text-center">
               <a data-fancybox="gallery" href="/images/rooms/1_etag_21.jpg"><img src="/images/rooms/1_etag_2.jpg"
@@ -356,6 +362,7 @@
 // import fancyBox from 'vue-fancybox';
 export default {
     layout:"default",
+
 }
 // $.fancybox.defaults.arrows = false;
 // $.fancybox.defaults.clickContent = false;
