@@ -13,11 +13,12 @@
       <div class="row p-2">
           <div class="col-sm-3 pt-2 text-center">
               <div>
-                  <a data-fancybox="gallery" href="/images/rooms/1_etag_11.jpg"><img src="/images/rooms/1_etag_1.jpg" class="img-fluid"></a>
+                  <img v-img:room src="/images/rooms/1_etag_11.jpg" class="my_img img-fluid">
               </div>
           </div>
           <div class="col-sm-3 pt-2 text-center">
               <div>
+                  <img v-img:room src="/images/rooms/2_etag_11.jpg" class="my_img img-fluid">
                   <a data-fancybox="gallery" href="/images/rooms/2_etag_11.jpg"><img src="/images/rooms/2_etag_1.jpg"
                                                                                     class="my_img img-fluid"></a>
               </div>

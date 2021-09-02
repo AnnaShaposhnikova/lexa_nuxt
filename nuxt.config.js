@@ -17,21 +17,11 @@ export default {
             {rel: 'icon', type: 'image/x-icon', href: '/favicon.ico'},
             {rel: 'preconnect', href: 'https://fonts.gstatic.com'},
             {rel: 'stylesheet', href: 'https://fonts.googleapis.com/css2?family=Philosopher&display=swap'},
-            {
-                rel: "stylesheet",
-                href: "https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css"
-            },
-
         ],
         script: [
             {
-                href: "https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js",
-                body: true
-            },
-            {
-                href: "https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js",
-                body: true
-            },
+            href:"https://unpkg.com/@diracleo/vue-enlargeable-image/dist/vue-enlargeable-image.min.js"
+             }
         ]
     },
 
@@ -46,7 +36,10 @@ export default {
     ],
 
     // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
-    plugins: [],
+    plugins: [
+        '~/plugins/enlargeableImage.js',
+        '~/plugins/v-img.js'
+    ],
 
     // Auto import components: https://go.nuxtjs.dev/config-components
     components: true,
@@ -65,5 +58,5 @@ export default {
     },
 
     // Build Configuration: https://go.nuxtjs.dev/config-build
-    build: {}
+    build: {},
 }
