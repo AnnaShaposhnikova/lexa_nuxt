@@ -48,18 +48,18 @@
       </div>
       <div class="row p-2">
           <div class="col-sm-4 pt-2 text-center">
-              <figure>
-                  <img src="/images/beach/agat1.jpg" class="img-fluid">
+              <figure>                  
+                  <img v-img:beach src="/images/beach/agat1.jpg" class="img-fluid">
               </figure>
           </div>
           <div class="col-sm-4 pt-2 text-center">
               <figure>
-                  <img src="/images/beach/agat2.jpg" class="img-fluid">
+                  <img v-img:beach src="/images/beach/agat2.jpg" class="img-fluid">
               </figure>
           </div>
           <div class="col-sm-4 pt-2 text-center">
               <figure>
-                  <img src="/images/beach/agat3.jpg" class="img-fluid">
+                  <img v-img:beach src="/images/beach/agat3.jpg" class="img-fluid">
               </figure>
           </div>
       </div>
@@ -91,17 +91,17 @@
       <div class="row p-2">
           <div class="col-sm-4 pt-2 text-center">
               <figure>
-                  <img src="/images/beach/center1.jpg" class="img-fluid">
+                  <img v-img:beach src="/images/beach/center1.jpg" class="img-fluid">
               </figure>
           </div>
           <div class="col-sm-4 pt-2 text-center">
               <figure>
-                  <img src="/images/beach/center2.jpg" class="img-fluid">
+                  <img v-img:beach src="/images/beach/center2.jpg" class="img-fluid">
               </figure>
           </div>
           <div class="col-sm-4 pt-2 text-center">
               <figure>
-                  <img src="/images/beach/center3.jpg" class="img-fluid">
+                  <img v-img:beach src="/images/beach/center3.jpg" class="img-fluid">
               </figure>
           </div>
       </div>
@@ -132,17 +132,17 @@
       <div class="row p-2">
           <div class="col-sm-4 pt-2 text-center">
               <figure>
-                  <img src="/images/beach/first.jpg" class="img-fluid">
+                  <img v-img:beach src="/images/beach/first1.jpg" class="img-fluid">
               </figure>
           </div>
           <div class="col-sm-4 pt-2 text-center">
               <figure>
-                  <img src="/images/beach/first_2.jpg" class="img-fluid">
+                  <img v-img:beach src="/images/beach/first2.jpg" class="img-fluid">
               </figure>
           </div>
           <div class="col-sm-4 pt-2 text-center">
               <figure>
-                  <img src="/images/beach/first_3.jpg" class="img-fluid">
+                  <img v-img:beach src="/images/beach/first3.jpg" class="img-fluid">
               </figure>
           </div>
       </div>
@@ -156,11 +156,11 @@
               <article>
                   <p>
                       Если Вы любитель отдыха без одежды, в дали от шума популярных пляжей, желаете слышать
-                      только шум волн и крик чаек - добро подаловать на пляжи за Вторым и Третьим мысами.
-                      Пляжи не оборудован шезлонгами и навесами, он остался во всей своей первозданной красоте.
+                      только шум волн и крик чаек - добро пожаловать на пляжи за Вторым и Третьим мысами.
+                      Пляжи не оборудованы шезлонгами и навесами, они остались во всей своей первозданной красоте.
                   </p>
                   <p>
-                      Сами пляжи галечные,дно каменистое. Поэтому даже после сильных волненией на море вода на пляжах
+                      Сами пляжи галечные, дно каменистое. Поэтому даже после сильных волненией на море вода на пляжах
                       чистая и прозрачная.
                   </p>
                   <p>
@@ -173,17 +173,17 @@
       <div class="row p-2">
           <div class="col-sm-4 pt-2 text-center">
               <figure>
-                  <img src="/images/beach/third1.jpg" class="img-fluid">
+                  <img v-img:beach src="/images/beach/third1.jpg" class="img-fluid">
               </figure>
           </div>
           <div class="col-sm-4 pt-2 text-center">
               <figure>
-                  <img src="/images/beach/third2.jpg" class="img-fluid">
+                  <img v-img:beach src="/images/beach/third2.jpg" class="img-fluid">
               </figure>
           </div>
           <div class="col-sm-4 pt-2 text-center">
               <figure>
-                  <img src="/images/beach/third3.JPG" class="img-fluid">
+                  <img v-img:beach src="/images/beach/third3.jpg" class="img-fluid">
               </figure>
           </div>
       </div>
@@ -202,18 +202,19 @@
               <article>
                   <p>
                       Симпатичный и просторный пляж, затерянный между холмов на северном побережье поселка.
-                      Название "Краснячка" скорей всего возникло благодаря наличию камней красного и бурого
-                      цвета в структуре близлежащих пляжей. Хотя именно этот пляж состоит из песка и совсем
-                      мелких камушков. Чтобы попасть сюда, необходимо перейти через гору Седло.
-                      В жаркий день путь этот будет не из легких: к пляжу ведет длинный спуск,
+                      Еще местные жители называют его "Лягушка".
+                  </p>
+                    <p>
+                      Чтобы попасть сюда, необходимо перейти через гору Седло.
+                      В жаркий день путь этот будет не из легких: к пляжу ведет длинный спуск по необорудованной глиняной тропе,
                       а возвращаться придется поднимаясь в гору. Но и экстремальным его не назовешь,
                       сюда часто приходят с детьми. Дорога от центра поселка займет минут 15 - 20.
                       Перед посещением необходимо запастись питьевой водой или даже легким перекусом.
                       Пляж не оборудован шезлонгами и навесами, он остался во всей своей первозданной красоте.
                   </p>
                   <p>
-                      Сам пляж галечный,дно каменистое. Поэтому даже после сильных волненией на море вода на пляжае
-                      чистая и прозрачная.
+                      Сам пляж галечный, дно каменистое. Поэтому даже после сильных волненией на море вода на пляжае
+                      чистая и прозрачная. 
                   </p>
 
               </article>
@@ -222,17 +223,17 @@
       <div class="row p-2">
           <div class="col-sm-4 pt-2 text-center">
               <figure>
-                  <img src="/images/beach/kras3.jpg" class="img-fluid">
+                  <img v-img:beach src="/images/beach/kras3.jpg" class="img-fluid">
               </figure>
           </div>
           <div class="col-sm-4 pt-2 text-center">
               <figure>
-                  <img src="/images/beach/kras1.jpg" class="img-fluid">
+                  <img v-img:beach src="/images/beach/kras1.jpg" class="img-fluid">
               </figure>
           </div>
           <div class="col-sm-4 pt-2 text-center">
               <figure>
-                  <img src="/images/beach/kras2.jpg" class="img-fluid">
+                  <img v-img:beach src="/images/beach/kras2.jpg" class="img-fluid">
               </figure>
           </div>
       </div>
@@ -247,7 +248,7 @@
 
                   <p>На восток, среди мягких холмов над уютной живописной бухтой
                       возвышается неожиданно высокий каменный массив.
-                      Скала эта называется "Седло", т.к. его и напоминает по форме.
+                      Гора эта называется "Седло", так как очертаниями очень напоминает этот предмет.
                       А пляж, соответственно — "Под Седлом".
                   </p>
                   <p>
@@ -257,7 +258,7 @@
                       Можно также обойти "Седло" по воде и попасть в уединенную бухточку с галечным пляжем
                       и огромными скалистыми навесами. Естественно, никакой цивилизации.
                   </p>
-                  <p>Сам пляжи галечный,дно каменистое. Поэтому даже после сильных волненией на море вода на пляжае
+                  <p>Сам пляж галечный, дно каменистое .Поэтому даже после сильных волненией на море вода на пляжае
                       чистая и прозрачная.
                       Во второй половине дня пляж в тени скалы "Седло", нет необходимости возвращаться в самое жаркое
                       время
@@ -273,17 +274,17 @@
       <div class="row p-2">
           <div class="col-sm-4 pt-2 text-center">
               <figure>
-                  <img src="/images/beach/sedlo1.jpg" class="img-fluid">
+                  <img v-img:beach src="/images/beach/sedlo1.jpg" class="img-fluid">
               </figure>
           </div>
           <div class="col-sm-4 pt-2 text-center">
               <figure>
-                  <img src="/images/beach/sedlo2.jpg" class="img-fluid">
+                  <img v-img:beach src="/images/beach/sedlo2.jpg" class="img-fluid">
               </figure>
           </div>
           <div class="col-sm-4 pt-2 text-center">
               <figure>
-                  <img src="/images/beach/sedlo3.jpg" class="img-fluid">
+                  <img v-img:beach src="/images/beach/sedlo3.jpg" class="img-fluid">
               </figure>
           </div>
       </div>

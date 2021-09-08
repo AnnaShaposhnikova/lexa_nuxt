@@ -19,20 +19,17 @@
           <div class="col-sm-3 pt-2 text-center">
               <div>
                   <img v-img:room src="/images/rooms/2_etag_11.jpg" class="my_img img-fluid">
-                  <a data-fancybox="gallery" href="/images/rooms/2_etag_11.jpg"><img src="/images/rooms/2_etag_1.jpg"
-                                                                                    class="my_img img-fluid"></a>
+              
               </div>
           </div>
           <div class="col-sm-3 pt-2 text-center">
               <div>
-                  <a data-fancybox="gallery" href="/images/rooms/3_etag_11.jpg"><img src="/images/rooms/3_etag_1.jpg"
-                                                                                    class="my_img img-fluid"></a>
+                  <img v-img:room src="/images/rooms/3_etag_11.jpg" class="my_img img-fluid">
               </div>
           </div>
           <div class="col-sm-3 pt-2 text-center">
               <div>
-                  <a data-fancybox="gallery" href="/images/rooms/4mestny_11.jpg"><img src="/images/rooms/4mestny_1.jpg"
-                                                                                     class="my_img img-fluid"></a>
+                  <img v-img:room src="/images/rooms/4mestny_11.jpg" class="my_img img-fluid">
               </div>
           </div>
 
@@ -45,8 +42,7 @@
       <div class="row p-2">
           <div class="col-sm-3 pt-2 text-center">
               <div>
-                  <a data-fancybox="gallery" href="/images/yard_11.jpg"><img src="/images/yard_1.JPG"
-                                                                            class="my_img img-fluid"></a>
+                  <img v-img:yard src="/images/yard_1.JPG" class="my_img img-fluid">
               </div>
           </div>
           <div class="col-sm-3 pt-2 text-center">

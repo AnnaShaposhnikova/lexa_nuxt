@@ -84,7 +84,7 @@
                   <div class="col-sm-4 pt-2 text-center">
                       <div class="span wow bounceInLeft">
                           <div class="card">
-                              <CardImg src="/images/rooms/2.jpg"/>
+                              <CardImg src="/images/rooms/1_etag_1.jpg"/>
                               <CardBody>Трехместный номер <br>на 1 этаже</CardBody>
                           </div>
                       </div>
@@ -92,7 +92,7 @@
                   <div class="col-sm-4 pt-2 text-center">
                       <div class="span rollIn center">
                           <div class="card">
-                              <CardImg src="/images/rooms/1.jpg"/>
+                              <CardImg src="/images/rooms/2_etag_2.jpg"/>
                               <CardBody>Трехместный номер <br>на 2 этаже</CardBody>
                           </div>
                       </div>
@@ -100,7 +100,7 @@
                   <div class="col-sm-4 pt-2 text-center">
                       <div class="span wow bounceInRight">
                           <div class="card">
-                              <CardImg src="/images/rooms/3.jpg"/>
+                              <CardImg src="/images/rooms/3_etag_1.jpg"/>
                               <CardBody>Трехместный номер <br>на 3 этаже</CardBody>
                           </div>
                       </div>
@@ -110,7 +110,7 @@
                   <div class="col-sm-4 pt-2 text-center">
                       <div class="span wow bounceInLeft">
                           <div class="card">
-                              <CardImg src="/images/rooms/4.jpg"/>
+                              <CardImg src="/images/rooms/banya_1.jpg"/>
                               <CardBody>Трехместный номер <br>на 2 этаже</CardBody>
                           </div>
                       </div>
@@ -118,7 +118,7 @@
                   <div class="col-sm-4 pt-2 text-center">
                       <div class="span wow bounceInRight">
                           <div class="card">
-                              <CardImg src="/images/rooms/5.jpg"/>
+                              <CardImg src="/images/rooms/4mestny_2.jpg"/>
                               <CardBody>Четырехместный номер<br>на 2 этаже</CardBody>
                           </div>
                       </div>

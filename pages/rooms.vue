@@ -16,19 +16,19 @@
 <!--              <a data-fancybox="gallery" href="/images/rooms/1_etag_11.jpg"><img src="/images/rooms/1_etag_1.jpg"-->
 <!--                                                                                 class="my_img img-fluid"></a>-->
 
-              <img v-img:room1 src="/images/rooms/1_etag_11.jpg" class="my_img img-fluid"/>
+              <img v-img:room1 src="/images/rooms/1_etag_1.jpg" class="my_img img-fluid"/>
 <!--              <enlargeable-image src="/images/rooms/1_etag_1.jpg" src_large="/images/rooms/1_etag_11.jpg" />-->
 
 
           </div>
           <div class="col-sm-3 pt-2 text-center">
-              <img v-img:room1 src="/images/rooms/1_etag_21.jpg" class="my_img img-fluid">
+              <img v-img:room1 src="/images/rooms/1_etag_2.jpg" class="my_img img-fluid">
           </div>
           <div class="col-sm-3 pt-2 text-center">
-              <img v-img:room1 src="/images/rooms/1_etag_31.jpg" class="my_img img-fluid">
+              <img v-img:room1 src="/images/rooms/1_etag_3.jpg" class="my_img img-fluid">
           </div>
           <div class="col-sm-3 pt-2 text-center">
-              <img v-img:room1 src="/images/rooms/1_etag_41.jpg" class="my_img img-fluid">
+              <img v-img:room1 src="/images/rooms/1_etag_4.jpg" class="my_img img-fluid">
           </div>
       </div>
 
@@ -80,16 +80,16 @@
       </div>
       <div class="row justify-content-center px-2">
           <div class="col-sm-3 pt-2 text-center">
-              <img v-img:room2 src="/images/rooms/2_etag_11.jpg" class="my_img img-fluid">
+              <img v-img:room2 src="/images/rooms/2_etag_1.jpg" class="my_img img-fluid">
           </div>
           <div class="col-sm-3 pt-2 text-center">
-              <img v-img:room2 src="/images/rooms/2_etag_21.jpg" class="my_img img-fluid">
+              <img v-img:room2 src="/images/rooms/2_etag_2.jpg" class="my_img img-fluid">
           </div>
           <div class="col-sm-3 pt-2 text-center">
-              <img v-img:room2 src="/images/rooms/2_etag_31.jpg" class="my_img img-fluid">
+              <img v-img:room2 src="/images/rooms/2_etag_3.jpg" class="my_img img-fluid">
           </div>
           <div class="col-sm-3 pt-2 text-center">
-              <img v-img:room2 src="/images/rooms/2_etag_41.jpg" class="my_img img-fluid">
+              <img v-img:room2 src="/images/rooms/2_etag_4.jpg" class="my_img img-fluid">
           </div>
       </div>
       <div class="row justify-content-center mt-3">
@@ -143,16 +143,16 @@
       </div>
       <div class="row justify-content-center px-3">
           <div class="col-sm-3 p-2 text-center">
-              <img v-img:room3 src="/images/rooms/3_etag_11.jpg" class="my_img img-fluid">
+              <img v-img:room3 src="/images/rooms/3_etag_1.jpg" class="my_img img-fluid">
           </div>
           <div class="col-sm-3 p-2 text-center">
-              <img v-img:room3 src="/images/rooms/3_etag_21.jpg" class="my_img img-fluid">
+              <img v-img:room3 src="/images/rooms/3_etag_2.jpg" class="my_img img-fluid">
           </div>
           <div class="col-sm-3 p-2 text-center">
-              <img v-img:room3 src="/images/rooms/3_etag_31.jpg" class="my_img img-fluid">
+              <img v-img:room3 src="/images/rooms/3_etag_3.jpg" class="my_img img-fluid">
           </div>
           <div class="col-sm-3 p-2 text-center">
-              <img v-img:room3 src="/images/rooms/3_etag_41.jpg" class="my_img img-fluid">
+              <img v-img:room3 src="/images/rooms/3_etag_4.jpg" class="my_img img-fluid">
           </div>
       </div>
 
@@ -213,16 +213,16 @@
       </div>
       <div class="row justify-content-center px-3">
           <div class="col-sm-3 p-2 text-center">
-              <img v-img:room4 src="/images/rooms/banya_11.jpg" class="my_img img-fluid">
+              <img v-img:room4 src="/images/rooms/banya_1.jpg" class="my_img img-fluid">
           </div>
           <div class="col-sm-3 p-2 text-center">
-              <img v-img:room4 src="/images/rooms/banya_21.jpg" class="my_img img-fluid">
+              <img v-img:room4 src="/images/rooms/banya_2.jpg" class="my_img img-fluid">
           </div>
           <div class="col-sm-3 p-2 text-center">
-              <img v-img:room4 src="/images/rooms/banya_31.jpg" class="my_img img-fluid">
+              <img v-img:room4 src="/images/rooms/banya_3.jpg" class="my_img img-fluid">
           </div>
           <div class="col-sm-3 p-2 text-center">
-              <img v-img:room4 src="/images/rooms/banya_41.jpg" class="my_img img-fluid">
+              <img v-img:room4 src="/images/rooms/banya_4.jpg" class="my_img img-fluid">
           </div>
       </div>
 
@@ -286,16 +286,16 @@
       </div>
       <div class="row justify-content-center px-3">
           <div class="col-sm-3 p-2 text-center">
-              <img v-img:room5 src="/images/rooms/4mestny_11.jpg" class="my_img img-fluid">
+              <img v-img:room5 src="/images/rooms/4mestny_1.jpg" class="my_img img-fluid">
           </div>
           <div class="col-sm-3 p-2 text-center">
-              <img v-img:room5 src="/images/rooms/4mestny_21.jpg" class="my_img img-fluid">
+              <img v-img:room5 src="/images/rooms/4mestny_2.jpg" class="my_img img-fluid">
           </div>
           <div class="col-sm-3 p-2 text-center">
-              <img v-img:room5 src="/images/rooms/4mestny_31.jpg" class="my_img img-fluid">
+              <img v-img:room5 src="/images/rooms/4mestny_3.jpg" class="my_img img-fluid">
           </div>
           <div class="col-sm-3 p-2 text-center">
-              <img v-img:room5 src="/images/rooms/4mestny_41.jpg" class="my_img img-fluid">
+              <img v-img:room5 src="/images/rooms/4mestny_4.jpg" class="my_img img-fluid">
           </div>
       </div>
 
