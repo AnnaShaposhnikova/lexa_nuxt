@@ -13,23 +13,47 @@
       <div class="row p-2">
           <div class="col-sm-3 pt-2 text-center">
               <div>
-                  <img v-img:room src="/images/rooms/1_etag_11.jpg" class="my_img img-fluid">
+                  <img v-img:interior src="/images/rooms/1_etag_1.jpg" class="my_img img-fluid">
               </div>
           </div>
           <div class="col-sm-3 pt-2 text-center">
               <div>
-                  <img v-img:room src="/images/rooms/2_etag_11.jpg" class="my_img img-fluid">
+                  <img v-img:interior src="/images/rooms/2_etag_1.jpg" class="my_img img-fluid">
               
               </div>
           </div>
           <div class="col-sm-3 pt-2 text-center">
               <div>
-                  <img v-img:room src="/images/rooms/3_etag_11.jpg" class="my_img img-fluid">
+                  <img v-img:interior src="/images/rooms/3_etag_1.jpg" class="my_img img-fluid">
               </div>
           </div>
           <div class="col-sm-3 pt-2 text-center">
               <div>
-                  <img v-img:room src="/images/rooms/4mestny_11.jpg" class="my_img img-fluid">
+                  <img v-img:interior src="/images/rooms/4mestny_1.jpg" class="my_img img-fluid">
+              </div>
+          </div>
+
+      </div>
+      <div class="row p-2">
+          <div class="col-sm-3 pt-2 text-center">
+              <div>
+                  <img v-img:interior src="/images/outside/kitchen_1.jpg" class="my_img img-fluid">
+              </div>
+          </div>
+          <div class="col-sm-3 pt-2 text-center">
+              <div>
+                  <img v-img:interior src="/images/outside/kitchen_2.jpg" class="my_img img-fluid">
+              
+              </div>
+          </div>
+          <div class="col-sm-3 pt-2 text-center">
+              <div>
+                  <img v-img:interior src="/images/outside/kitchen_3.jpg" class="my_img img-fluid">
+              </div>
+          </div>
+          <div class="col-sm-3 pt-2 text-center">
+              <div>
+                  <img v-img:interior src="/images/outside/kitchen_4.jpg" class="my_img img-fluid">
               </div>
           </div>
 
@@ -42,22 +66,22 @@
       <div class="row p-2">
           <div class="col-sm-3 pt-2 text-center">
               <div>
-                  <img v-img:yard src="/images/yard_1.JPG" class="my_img img-fluid">
+                  <img v-img:yard src="/images/outside/yard_1.jpg" class="my_img img-fluid">
               </div>
           </div>
           <div class="col-sm-3 pt-2 text-center">
               <div>
-                  <a data-fancybox="gallery" href="/images/yard_21.jpg"><img src="/images/yard_2.jpg" class="img-fluid"></a>
+                  <img v-img:yard src="/images/outside/yard_2.jpg" class="my_img img-fluid">                 
               </div>
           </div>
           <div class="col-sm-3 pt-2 text-center">
               <div>
-                  <a data-fancybox="gallery" href="/images/yard_31.jpg"><img src="/images/yard_3.jpg" class="img-fluid"></a>
+                 <img v-img:yard src="/images/outside/yard_3.jpg" class="my_img img-fluid">
               </div>
           </div>
           <div class="col-sm-3 pt-2 text-center">
               <div>
-                  <a data-fancybox="gallery" href="/images/yard_4.JPG"><img src="/images/yard_4.JPG" class="img-fluid"></a>
+                  <img v-img:yard src="/images/outside/yard_4.jpg" class="my_img img-fluid">
               </div>
           </div>
       </div>
