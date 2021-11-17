@@ -53,7 +53,7 @@
                       <div>
                           <h4 class="text-center mb-3">Мы в соцсетях</h4>
                           <div class="brand-social p-3">
-                              <a href="https://www.instagram.com/ordjo_dachnaya26">
+                              <a href="https://www.instagram.com/ordjo_dachnaya26/">
                                   <img src="/images/insagram.jpg" style="height: 50px">
                               </a>
                           </div>
