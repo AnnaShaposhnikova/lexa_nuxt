@@ -11,50 +11,50 @@
           </div>
       </div>
       <div class="row p-2">
-          <div class="col-sm-3 pt-2 text-center">
-              <div>
+          <div class="col-lg-3 col-md-6 col-sm-12 pt-2 text-center">
+              <figure>
                   <img v-img:interior src="/images/rooms/1_etag_1.jpg" class="my_img img-fluid">
-              </div>
+              </figure>
           </div>
-          <div class="col-sm-3 pt-2 text-center">
-              <div>
+          <div class="col-lg-3 col-md-6 col-sm-12 pt-2 text-center">
+              <figure>
                   <img v-img:interior src="/images/rooms/2_etag_1.jpg" class="my_img img-fluid">
               
-              </div>
+              </figure>
           </div>
-          <div class="col-sm-3 pt-2 text-center">
-              <div>
+          <div class="col-lg-3 col-md-6 col-sm-12 pt-2 text-center">
+              <figure>
                   <img v-img:interior src="/images/rooms/3_etag_1.jpg" class="my_img img-fluid">
-              </div>
+              </figure>
           </div>
-          <div class="col-sm-3 pt-2 text-center">
-              <div>
+          <div class="col-lg-3 col-md-6 col-sm-12 pt-2 text-center">
+              <figure>
                   <img v-img:interior src="/images/rooms/4mestny_1.jpg" class="my_img img-fluid">
-              </div>
+              </figure>
           </div>
 
       </div>
       <div class="row p-2">
-          <div class="col-sm-3 pt-2 text-center">
-              <div>
+          <div class="col-lg-3 col-md-6 col-sm-12 pt-2 text-center">
+              <figure>
                   <img v-img:interior src="/images/outside/kitchen_1.jpg" class="my_img img-fluid">
-              </div>
+              </figure>
           </div>
-          <div class="col-sm-3 pt-2 text-center">
-              <div>
+          <div class="col-lg-3 col-md-6 col-sm-12 text-center">
+              <figure>
                   <img v-img:interior src="/images/outside/kitchen_2.jpg" class="my_img img-fluid">
               
-              </div>
+              </figure>
           </div>
-          <div class="col-sm-3 pt-2 text-center">
-              <div>
+          <div class="col-lg-3 col-md-6 col-sm-12 pt-2 text-center">
+              <figure>
                   <img v-img:interior src="/images/outside/kitchen_3.jpg" class="my_img img-fluid">
-              </div>
+              </figure>
           </div>
-          <div class="col-sm-3 pt-2 text-center">
-              <div>
+          <div class="col-lg-3 col-md-6 col-sm-12 pt-2 text-center">
+              <figure>
                   <img v-img:interior src="/images/outside/kitchen_4.jpg" class="my_img img-fluid">
-              </div>
+              </figure>
           </div>
 
       </div>
@@ -64,25 +64,25 @@
           </div>
       </div>
       <div class="row p-2">
-          <div class="col-sm-3 pt-2 text-center">
-              <div>
+          <div class="col-lg-3 col-md-6 col-sm-12 pt-2 text-center">
+              <figure>
                   <img v-img:yard src="/images/outside/yard_1.jpg" class="my_img img-fluid">
-              </div>
+              </figure>
           </div>
-          <div class="col-sm-3 pt-2 text-center">
-              <div>
+          <div class="col-lg-3 col-md-6 col-sm-12 pt-2 text-center">
+              <figure>
                   <img v-img:yard src="/images/outside/yard_2.jpg" class="my_img img-fluid">                 
-              </div>
+              </figure>
           </div>
-          <div class="col-sm-3 pt-2 text-center">
-              <div>
+          <div class="col-lg-3 col-md-6 col-sm-12 pt-2 text-center">
+              <figure>
                  <img v-img:yard src="/images/outside/yard_3.jpg" class="my_img img-fluid">
-              </div>
+              </figure>
           </div>
-          <div class="col-sm-3 pt-2 text-center">
-              <div>
+          <div class="col-lg-3 col-md-6 col-sm-12 pt-2 text-center">
+              <figure>
                   <img v-img:yard src="/images/outside/yard_4.jpg" class="my_img img-fluid">
-              </div>
+              </figure>
           </div>
       </div>
   </div>
